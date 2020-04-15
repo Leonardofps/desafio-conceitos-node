@@ -1,6 +1,6 @@
 # Desafio Go Stack - 01
 
-Utilize Yarn ou Npm install para baixar dependências.
+Utilize <b> yarn </b> ou <b> npm install </b> para baixar dependências.
 
 <h2> Tecnologias utilizadas </h2>
 
